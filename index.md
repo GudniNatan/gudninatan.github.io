@@ -1,6 +1,7 @@
 # Guðni Natan Gunnarsson
 
-![alt text](gudni.jpg "Guðni Natan Gunnarsson")
+<img src="gudni.jpg" alt="Guðni Natan Gunnarsson" title="Guðni Natan Gunnarsson" style="max-width: 15em;">
+
 
 ## Education
 
@@ -11,7 +12,7 @@ Computer studies, Technical College of Reykjavik, 2015-2017 | Secondary educatio
 Primary education, Hvaleyrarskóli, 2004-2015                | Graduated with an average grade of 95%.
 Other                                                       | I have taken two leadership courses offered by YMCA in Iceland.
 
-## Experience
+## Work Experience
 
 Workplace            | Job title          | Time period
 -------------------- | ------------------ | ---------------------
@@ -19,6 +20,9 @@ Reykjavik University | Teaching Assistant | 08.01.2020-15.05.2020
 Tækniskólinn         | IT consultant      | 22.01.2018-
 YMCA Camp Kaldársel  | Camp counsellor    | Summer 2016-2019
 Fosshotel Reykjavik  | Housekeeping       | Summer 2015
+
+## Skills
+ 
 
 ## Contact me
 
