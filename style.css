@@ -1,0 +1,15 @@
+body {
+    max-width: 80em;
+    margin: 0 auto;
+    padding: 1em 10em;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+img {
+    max-width: 10em;
+}
