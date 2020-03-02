@@ -1,4 +1,4 @@
-|Guðni Natan Gunnarsson <br> @gudninatan | <img src="gudni.jpg" alt="Guðni Natan Gunnarsson" title="Guðni Natan Gunnarsson" style="max-width: 15em;"> |
+|Guðni Natan Gunnarsson @gudninatan | <img src="gudni.jpg" alt="Guðni Natan Gunnarsson" title="Guðni Natan Gunnarsson" style="max-width: 15em;"> |
 |-|-|
 
 
